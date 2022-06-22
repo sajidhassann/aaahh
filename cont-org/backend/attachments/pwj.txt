@@ -1,0 +1,205 @@
+About Your Instructor - Nazariy Dumanskyy
+Welcome
+The 7 Habits of Highly Paid Developers
+Should You Freelance or Full-Time Based On Your Personality
+Let's Figure Out Your Income Goals To Direct Yourself
+The Pros and Cons of Freelancing vs Full-Time (In-Depth)
+🤑 5 Ways to Generate $5,000 per month as a JavaScript Developer
+How To Get Maximum ROI From This Course
+How To Get Maximum ROI from the Facebook Community
+Your War Plan for the JavaScript Crash Course
+Why Learn Javascript, And Where Can We Use It?
+Overview of Project: Guess the Number Game
+How to Run Javascript Code
+Manipulate the DOM with JavaScript
+Numbers in JavaScript
+Functions in JavaScript
+While vs. For Loops in JavaScript
+Data Types in JavaScript
+Strings (Common Methods)
+JavaScript Arrays
+Objects in JavaScript
+If-Else Conditionals and Switch Statements
+Learn JSON in 5 Minutes
+Project: Let's build Guess The Number Game
+Guess The Number Game: Retrieve User Input
+Guess The Number Game: Generate Random Number
+Guess The Number Game: Compare User Input With Generated Number
+Guess The Number Game: Create Function To Compare Result
+Guess The Number Game: Create The Main Dialog To Show Result
+Guess The Number Game: Connect Result Logic With Dialog
+Guess The Number Game: Save User Guess History
+Guess The Number Game: Display Guess History
+Guess The Number Game: Ability To Restart The Game
+Overview of Module on Problem Solving
+Challenge 1: Add Two Numbers
+Challenge 2: Convert Minutes to Seconds
+Challenge 3: Your Age In Seconds
+Challenge 4: First Item In An Array
+Challenge 5: Label Good Movies and Bad Movies
+Challenge 6: Check if a string is empty
+Challenge 7: Finding the Minimum
+Challenge 8: Finding the Maximum
+How to Visualize Your JavaScript Code
+Challenge 9: Sort by Biggest Numbers
+Challenge 10: How to Use Helper Functions
+Project: Sort IMDB Movie Database
+Sort IMDB Movie Database: Let's set up the project
+Sort IMDB Movie Database: Sort movies list by rank
+Sort IMDB Movie Database: Create a flexible function to sort movies by rank, id, and title
+Sort IMDB Movie Database: How are strings compared?
+Sort IMDB Movie Database: Create a helper function for sorting movies
+Overview of Module on DOM-inate with JavaScript
+What is DOM and why do we need it?
+How to access the DOM elements
+How to search the DOM tree for the element you need
+How to modify the content of the DOM
+What is BOM?
+Project: Create a Google DOC like TextEditor
+TextEditor: Add bold, italic, and underline features
+TextEditor: Add text align features
+What is the right keyboard event to use?
+Welcome
+Alfred - Find files and your copied text instantly
+Google Chrome Inspect Tool - Pick apart web pages easily
+Oh My ZSH - A cleaner, nicer, more powerful, more robust, command line.
+VIM - crazy keyboard shortcuts to DOUBLE your coding speed.
+Visual Studio Code - the best code editor
+Stack Overflow - best community for coding questions (and fixing bugs!)
+Spectacle - window management
+Droplr - clear screenshots and clear communication to clients/teams
+Overview of Module on Advanced Javascript
+What/Why ES6+?
+ES6+: Using Let & Const to correctly define variables and their scope
+ES6+: Template Literals for easier concatenation of strings
+ES6+: Using Arrow Functions to define functions easier
+ES6+: Setting Default Parameters in functions
+ES6+: Simpler ways for iterating over arrays and objects
+ES6+: Deconstructing Objects
+Challenge: Convert TextEditor Project to ES6+
+ES6+: Using promises to run code in the future
+ES6+: Fetching data from an API
+Project: Create a Weather App
+Weather App: Fetch weather data from API
+Weather App: Get weather data based on user input
+Weather App: Display weather data
+Overview of Module on Object-Oriented Programming
+What is OOP? Why do we need to learn it?
+Creating Objects for containing data and methods
+Everything is an object in Javascript! Almost...
+Creating Classes
+Inheriting from other Classes
+Project: BeatBoxJS Intro
+BeatBoxJS: Setting up the project using GitHub
+BeatBoxJS: Listening on keystrokes
+BeatBoxJS: Creating a Beat Class to play audio files
+BeatBoxJS: Connecting keypress to the playing of audio
+BeatBoxJS: Create Button class to represent button colors and transitions
+BeatBoxJS: Finishing up
+Feb 6 Live Call - Student Introductions and Answering Questions 
+Feb 22 Coding Live Call - Teaching the Process of Creating the Guess The Number Game
+March 21 - Google Maps Project Explanation/Catch Up
+March 28 - How to turn your idea into a reality
+April 4 - ES6 String Literals, CSS & FlexBox
+April 11 - Problem Solving Algorithm Questions to prepare for developer interviews
+April 19 - Solving Diagonal Difference Algorithm Question From Homework on April 11
+Module Intro
+Project: My Blog Intro
+Blog App: Creating a Software Requirements Document to give to our clients
+Blog App: Learning to create our first Wireframe
+Blog App: Setting up the project files
+Using the power of Flexbox to build any layout on the web
+Blog App: Creating the Home Page base structure
+Blog App: Creating the Blog Post html and style
+Blog App: Learning to add transitions and hover effects
+Blog App: Complete Individual Post structure and styling
+What is a REST API?
+Blog App: Creating your first NodeJS Server API
+Blog App: Creating API Endpoint to return a list of posts
+Blog App: Reading data from JSON file in NodeJS
+Blog App: Creating API Endpoint to get an individual blog post
+Blog App: Connecting Home Page with API Data
+Blog App: Connecting Post Page with API Data
+Blog App: Uploading images to NodeJS API
+Blog App: Posting a new Blog Post to the API (WE ARE DONE )
+Blackjack and Intro Projects (Your Projects/Challenges For This Module)
+Mini-Project 1: Your Age In Days
+Mini-Project 2: Random Cat Generator
+Mini-Project 3: Rock Paper Scissors (Part 1)
+Mini-Project 3: Rock Paper Scissors (Part 2)
+Mini-Task: Changing the color of all buttons
+How Blackjack Works
+Writing the HTML for Blackjack
+Writing the CSS for Blackjack
+Blackjack: Part 1
+Blackjack: Part 2
+Blackjack: Part 3
+Blackjack: Part 4
+Blackjack: Part 5
+Blackjack: Part 6
+Module Intro
+Project: Twitter Clone Intro
+Twitter Clone: Creating a Software Requirements Document to provide a foundation for the project
+Twitter Clone: Building a Wireframe
+Twitter Clone: Create a Twitter Developer Account
+Twitter Clone: Connecting to Twitter API
+Twitter Clone: Setting up the files
+Twitter Clone: Using Mockup files as a Front End Developer
+Twitter Clone: Creating the Page Structure
+Twitter Clone: Create HTML and Style for Navigation
+Twitter Clone: Create HTML and Style for Input Box
+Twitter Clone: Creating HTML and Style for Individual Tweet
+Twitter Clone: Creating HTML and Style for Trending Box
+Twitter Clone: Setting up NodeJS Server
+Twitter Clone: Create API endpoint to receive Twitter Data
+Twitter Clone: Create helper function to move Twitter API Logic
+Twitter Clone: Saving secure API tokens in a .env file
+Twitter Clone: Retrieve data from our API on the APP
+Twitter Clone: Retrieving Twitter data based on user search input
+Twitter Clone: Showing tweets based on API Data
+Twitter Clone: Showing Tweet Images
+Twitter Clone: Showing Tweet Videos and Gifs
+Twitter Clone: Showing tweet user info
+Twitter Clone: Using momentjs to show created date of tweet
+Twitter Clone: Allowing users to search using trends
+Twitter Clone: Creating the Next Page Button
+Twitter Clone: Showing Next Page of Tweets
+Twitter Clone: Clean Up (WE ARE DONE) 
+Module Intro
+Project: Google Maps App Intro
+Google Maps: Creating a Software Requirements Document to provide a foundation for the project
+Google Maps: Creating the Wireframe
+Google Maps: Get your own Google Maps API Key
+Google Maps: Using Mockup Files as a Developer
+Google Maps: Setting up the files for the Google Maps Store Locator App
+Google Maps: Import Google Maps into our project
+Google Maps: Create HTML and STYLE for the header
+Google Maps: Create HTML and STYLE for zip code input
+Google Maps: Create HTML and STYLE for stores list container
+Google Maps: Create your FIRST marker on the map
+Google Maps: Set up NodeJS API
+Google Maps: Get your own Stores data 😉
+Google Maps: What is a NoSQL Database(MongoDB)? 🔥
+Google Maps: Create a POST API endpoint to save our data
+Google Maps: Create YOUR FIRST MongoDB Database
+Google Maps: Connect to MongoDB Database with Mongoose
+Google Maps: Create a Store Model in MongoDB and SAVE our first Object
+Google Map: Delete and Save real data in MongoDB Database
+Google Maps: Get real STORE data from MongoDB Database
+Google Maps: Show markers on Google Map of all STORES from API
+Google Maps: Add InfoWindow to every store marker
+Google Maps: Add HTML and STYLE for individual store
+Google Maps: Show the full list of stores from the API
+Google Maps: Open Info Window of a marker on the selection of a store
+Google Maps: Find Stores around zip code using MongoDB and Google Maps Geocoding API
+WHAT is ASYNC/AWAIT?
+Google Maps: Use ASYNC/AWAIT to cleanly refactor API code
+Google Maps: Implement search by zip code on the app
+Google Maps: Add Starter Screen (WE ARE DONE!) 
+Feb 22 Coding Live Call - Teaching the Process of Creating the Guess The Number Game
+April 25 - Starting COVID-19 Project Part 1 
+May 2, 2019 - COVID Tracker Part 2
+May 9, 2020 - COVID Tracker Part 3 - Adding LIVE COVID data to the map
+May 16, 2020 - 7-Figure Freelance Developer Interview 💰
+May 7 - Success Coaches that will skyrocket your knowledge in JavaScript🚀
+May 14 - Creating a Pokemon Card with CSS, HTML
